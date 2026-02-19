@@ -1,0 +1,7 @@
+anndata
+scanpy
+scvi-tools
+scikit-image
+python-igraph
+pandas
+numpy
