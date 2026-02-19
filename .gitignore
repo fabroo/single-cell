@@ -1,6 +1,8 @@
 # biooo
 *.tar.gz
-
+ambiente/
+*.pt
+*.h5ad
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

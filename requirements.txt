@@ -1,7 +1,8 @@
 anndata
 scanpy
-scvi-tools
+scvi-tools==1.4.1
 scikit-image
 python-igraph
 pandas
 numpy
+torch==2.5.1
