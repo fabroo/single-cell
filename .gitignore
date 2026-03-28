@@ -1,5 +1,5 @@
 # biooo
-*.tar.gz
+*.gz
 ambiente/
 *.pt
 *.h5ad
